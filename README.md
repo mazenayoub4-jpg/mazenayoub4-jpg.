@@ -20,3 +20,4 @@ This project is a high-fidelity replication of a professional payment orchestrat
 ### 📂 Code & Repository
 To review the underlying data structure, model view, or download the .pbix file, visit the official GitHub repository:
 🔗 [GitHub Repository | S&P Global Dashboard Replication](https://github.com/mazenayoub4-jpg/SP-Global-Dashboard-Replication)
+📊 [Live Interactive Dashboard on NovyPro][https://www.novypro.com/project/sp-global-dashboard-]
